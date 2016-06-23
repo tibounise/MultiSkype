@@ -4,4 +4,4 @@ Run multiple instances of Skype on the same computer using MultiSkype. Requires 
 
 ## How to compile
 
-MultiSkype requires gcc. I have not tried yet but Clang should work too. `make` will produce an application bundle in the `build/` folder.
+MultiSkype requires gcc or clang installed. `make` will produce an application bundle in the `build/` folder.
